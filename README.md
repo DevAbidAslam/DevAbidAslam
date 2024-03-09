@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DevAbidAslam
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning typescript
+- 🌱 I’m currently learning Coding stuffs
 - 💞️ I’m looking to collaborate on any coding project 
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
